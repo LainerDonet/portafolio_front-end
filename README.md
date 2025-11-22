@@ -1,7 +1,6 @@
 <div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
 
-# Alex Dev - Portfolio Profesional
+# Lainer F. Donet - Portfolio Profesional
 
 ### Desarrollador Front-end Junior
 
@@ -54,8 +53,8 @@ Asegúrate de tener instalado:
 1. **Clona el repositorio**
 
    ```bash
-   git clone https://github.com/tu-usuario/alex-dev-portfolio.git
-   cd alex-dev-portfolio
+   git clone https://github.com/LainerDonet/portafolio_front-end.git
+   cd portafolio_front-end
    ```
 
 2. **Instala las dependencias**
