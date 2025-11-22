@@ -1,0 +1,7 @@
+{
+  "name": "Alex Dev Portfolio",
+  "description": "Portafolio profesional de desarrollador Front-end con integración de IA Gemini para interacción interactiva.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
