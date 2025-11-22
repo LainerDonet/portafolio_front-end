@@ -47,8 +47,8 @@ const Hero: React.FC = () => {
             </div>
 
             <div className="flex items-center justify-center lg:justify-start gap-6 pt-4">
-              <a href="#" className="text-gray-400 hover:text-white transition-colors"><Github className="h-6 w-6" /></a>
-              <a href="#" className="text-gray-400 hover:text-white transition-colors"><Linkedin className="h-6 w-6" /></a>
+              <a href="https://github.com/LainerDonet" className="text-gray-400 hover:text-white transition-colors"><Github className="h-6 w-6" /></a>
+              <a href="https://www.linkedin.com/in/lainerdonet/" className="text-gray-400 hover:text-white transition-colors"><Linkedin className="h-6 w-6" /></a>
             </div>
           </div>
 

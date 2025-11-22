@@ -9,7 +9,7 @@ const ChatWidget: React.FC = () => {
     {
       id: 'init',
       role: 'model',
-      text: '¡Hola! Soy el asistente virtual de Alex basado en IA. ¿Tienes alguna pregunta sobre su experiencia o habilidades?',
+      text: '¡Hola! Soy el asistente virtual de Lainer basado en IA. ¿Tienes alguna pregunta sobre su experiencia o habilidades?',
       timestamp: Date.now()
     }
   ]);
@@ -82,7 +82,7 @@ const ChatWidget: React.FC = () => {
         <div className="bg-gradient-to-r from-primary to-secondary p-4 flex items-center gap-2">
           <Sparkles className="text-white h-5 w-5" />
           <div>
-             <h3 className="text-white font-bold text-sm">Alex AI Assistant</h3>
+             <h3 className="text-white font-bold text-sm">Lainer AI Assistant</h3>
              <p className="text-xs text-white/80">Powered by Gemini</p>
           </div>
         </div>
@@ -124,7 +124,7 @@ const ChatWidget: React.FC = () => {
               value={inputValue}
               onChange={(e) => setInputValue(e.target.value)}
               onKeyDown={handleKeyPress}
-              placeholder="Pregúntame sobre Alex..."
+              placeholder="Pregúntame sobre Lainer..."
               className="flex-1 bg-dark border border-gray-600 rounded-full px-4 py-2 text-sm text-white focus:outline-none focus:border-primary transition-colors"
             />
             <button

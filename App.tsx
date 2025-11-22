@@ -43,7 +43,7 @@ const App: React.FC = () => {
       </main>
       
       <footer className="bg-dark border-t border-gray-800 py-8 text-center text-gray-500 text-sm">
-        <p>© {new Date().getFullYear()} Alex Dev. Hecho con React & Tailwind.</p>
+        <p>© {new Date().getFullYear()} Lainer Donet. Hecho con React & Tailwind.</p>
       </footer>
 
       <ChatWidget />

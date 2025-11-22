@@ -34,7 +34,7 @@ const Navbar: React.FC<NavbarProps> = ({ activeSection }) => {
             <div className="bg-gradient-to-br from-primary to-secondary p-2 rounded-lg">
               <Code2 className="h-6 w-6 text-white" />
             </div>
-            <span className="font-display font-bold text-xl tracking-tight text-white">Alex<span className="text-primary">Dev</span></span>
+            <span className="font-display font-bold text-xl tracking-tight text-white">Lainer<span className="text-primary">Donet</span></span>
           </div>
           
           {/* Desktop Menu */}

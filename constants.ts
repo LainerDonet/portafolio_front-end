@@ -1,7 +1,7 @@
 import { Project, Skill, ExperienceItem } from './types';
 
-export const DEV_NAME = "Alex Rodríguez";
-export const DEV_ROLE = "Senior Frontend Engineer";
+export const DEV_NAME = "Lainer F. Donet";
+export const DEV_ROLE = "Desarrollador Front-end Junior";
 export const DEV_BIO = "Ingeniero de software especializado en crear experiencias digitales excepcionales. Apasionado por React, la arquitectura escalable y el diseño UI/UX centrado en el usuario.";
 
 export const PROJECTS: Project[] = [
