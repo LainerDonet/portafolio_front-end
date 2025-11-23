@@ -55,16 +55,16 @@ export const SKILLS: Skill[] = [
 export const EXPERIENCE: ExperienceItem[] = [
   {
     id: 1,
-    role: "Senior Frontend Developer",
-    company: "TechFlow Solutions",
-    period: "2021 - Presente",
-    description: "Liderando la migración de monolitos a micro-frontends. Mentoria de desarrolladores junior y definición de estándares de código."
+    role: "Junior Front-end Developer",
+    company: "Escuela Britanica de Artes Creativas y Tecnología",
+    period: "2025 - Presente",
+    description: "Desarrollo de sitios web como parte de la enseñanza de la programación Front-end. Implementación de herremientas de programación Front-end actualizadas."
   },
   {
     id: 2,
-    role: "Frontend Developer",
-    company: "Creative Digital Agency",
-    period: "2018 - 2021",
-    description: "Desarrollo de sitios web premiados para clientes internacionales. Implementación de animaciones complejas y optimización de rendimiento."
+    role: "HPC Specialist",
+    company: "LUFAC Company",
+    period: "2021 - Presente",
+    description: "Desarrollo de herramientas de supercomputo para la investigación en física y matemáticas. Administración de clusters de supercomputo de Alto Rendimiento y alta disponibilidad."
   }
 ];

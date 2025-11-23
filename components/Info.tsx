@@ -64,7 +64,7 @@ const Info: React.FC = () => {
                 <p className="text-gray-400 leading-relaxed">
                    Soy un desarrollador que cree firmemente en que el código limpio conduce a productos mejores. 
                    Mi enfoque combina la precisión técnica de la ingeniería de software con la sensibilidad estética del diseño moderno.
-                   Me especializo en el ecosistema React, pero siempre estoy aprendiendo nuevas herramientas para resolver problemas de manera más eficiente.
+                   Me especializo en el ecosistema React, pero siempre estoy aprendiendo nuevas herramientas para resolver problemas de manera más eficiente. Tengo experiencia en otras areas relacionadas con las ciencias de la computación como la modelación numerica, la programación de algoritmos y el supercomputo.
                 </p>
              </div>
 
