@@ -1,4 +1,8 @@
 import { Project, Skill, ExperienceItem } from './types';
+import noticiasImg from './assets/noticias-tec.png';
+import breveCurriculumImg from './assets/breve-curriculum.png';
+import landingCarasImg from './assets/landing-caras.png';
+import tiempoCiudadesImg from './assets/tiempo-ciudades.png';
 
 export const DEV_NAME = "Lainer F. Donet";
 export const DEV_ROLE = "Desarrollador Front-end Junior";
@@ -10,7 +14,7 @@ export const PROJECTS: Project[] = [
     title: "Breve Curriculum Page",
     description: "mi Currículum Vitae en formato de página web, desarrollado para presentar de manera profesional y visualmente atractiva mi perfil, experiencia, habilidades y proyectos.",
     techStack: ["HTML", "CSS", "JavaScript"],
-    imageUrl: "https://picsum.photos/800/600?random=1",
+    imageUrl: breveCurriculumImg,
     demoUrl: "https://brevecurriculum.netlify.app",
     repoUrl: "https://github.com/LainerDonet/Curriculum"
   },
@@ -19,7 +23,7 @@ export const PROJECTS: Project[] = [
     title: "Landing page Revista CARAS",
     description: "La landing fue optimizada para maximizar su efectividad en términos de SEO, conversión de ventas y velocidad de carga, integrando buenas prácticas de HTML, optimización de recursos y mejora de la experiencia de usuario.",
     techStack: ["TypeScript", "Tailwind", "React"],
-    imageUrl: "https://picsum.photos/800/600?random=2",
+    imageUrl: landingCarasImg,
     demoUrl: "https://proyectocarasmodulo41.netlify.app",
     repoUrl: "https://github.com/LainerDonet/Proyecto-CARAS-M41"
   },
@@ -28,7 +32,7 @@ export const PROJECTS: Project[] = [
     title: "El Tiempo de tus Ciudades",
     description: "Aplicación web desarrollada en React que muestra el pronóstico del tiempo de varias ciudades del mundo utilizando la API pública de OpenWeather.",
     techStack: ["React", "TypeScript", "Tailwind", "Recharts"],
-    imageUrl: "https://picsum.photos/800/600?random=3",
+    imageUrl: tiempoCiudadesImg,
     demoUrl: "https://lainerdonet.github.io/Modulo34_EBAC_tercera-practica/",
     repoUrl: "https://github.com/LainerDonet/Modulo34_EBAC_tercera-practica"
   },
@@ -37,7 +41,7 @@ export const PROJECTS: Project[] = [
     title: "Sitio Web de Noticias Tecnológicas",
     description: "Es un sitio web estático de noticias de tegnología en gerenal y con especial interés en: HPC, Software Libre, Linux y Distribuciones Linux para servidores.",
     techStack: ["HTML", "CSS", "JavaScript", "SCSS"],
-    imageUrl: "https://picsum.photos/800/600?random=4",
+    imageUrl: noticiasImg,
     demoUrl: "https://lainerdonet.github.io/noticiastec.github.io",
     repoUrl: "https://github.com/LainerDonet/noticiastec.github.io"
   }

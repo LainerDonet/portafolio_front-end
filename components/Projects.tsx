@@ -34,10 +34,10 @@ const Projects: React.FC = () => {
                     {project.title}
                   </h3>
                   <div className="flex gap-3">
-                    <a href={project.repoUrl} className="text-gray-400 hover:text-white transition-colors p-2 bg-dark rounded-full hover:bg-primary/20">
+                    <a href={project.repoUrl} className="text-gray-400 hover:text-white transition-colors p-2 bg-dark rounded-full hover:bg-primary/20" target="_blank" rel="noopener noreferrer">
                       <Github className="h-5 w-5" />
                     </a>
-                    <a href={project.demoUrl} className="text-gray-400 hover:text-white transition-colors p-2 bg-dark rounded-full hover:bg-primary/20">
+                    <a href={project.demoUrl} className="text-gray-400 hover:text-white transition-colors p-2 bg-dark rounded-full hover:bg-primary/20" target="_blank" rel="noopener noreferrer">
                       <ExternalLink className="h-5 w-5" />
                     </a>
                   </div>
