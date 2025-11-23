@@ -7,39 +7,39 @@ export const DEV_BIO = "Ingeniero de software especializado en crear experiencia
 export const PROJECTS: Project[] = [
   {
     id: 1,
-    title: "E-Commerce Dashboard",
-    description: "Panel de administración completo con análisis de datos en tiempo real, gestión de inventario y temas personalizables.",
-    techStack: ["React", "TypeScript", "Tailwind", "Recharts"],
+    title: "Breve Curriculum Page",
+    description: "mi Currículum Vitae en formato de página web, desarrollado para presentar de manera profesional y visualmente atractiva mi perfil, experiencia, habilidades y proyectos.",
+    techStack: ["HTML", "CSS", "JavaScript"],
     imageUrl: "https://picsum.photos/800/600?random=1",
-    demoUrl: "#",
-    repoUrl: "#"
+    demoUrl: "https://brevecurriculum.netlify.app",
+    repoUrl: "https://github.com/LainerDonet/Curriculum"
   },
   {
     id: 2,
-    title: "AI Image Generator",
-    description: "Aplicación web que utiliza modelos de difusión para generar imágenes artísticas a partir de texto.",
-    techStack: ["Next.js", "Gemini API", "Three.js"],
+    title: "Landing page Revista CARAS",
+    description: "La landing fue optimizada para maximizar su efectividad en términos de SEO, conversión de ventas y velocidad de carga, integrando buenas prácticas de HTML, optimización de recursos y mejora de la experiencia de usuario.",
+    techStack: ["TypeScript", "Tailwind", "React"],
     imageUrl: "https://picsum.photos/800/600?random=2",
-    demoUrl: "#",
-    repoUrl: "#"
+    demoUrl: "https://proyectocarasmodulo41.netlify.app",
+    repoUrl: "https://github.com/LainerDonet/Proyecto-CARAS-M41"
   },
   {
     id: 3,
-    title: "Finance Tracker",
-    description: "Gestor de finanzas personales con visualización de gastos, presupuestos y sincronización bancaria.",
-    techStack: ["Vue.js", "Firebase", "D3.js"],
+    title: "El Tiempo de tus Ciudades",
+    description: "Aplicación web desarrollada en React que muestra el pronóstico del tiempo de varias ciudades del mundo utilizando la API pública de OpenWeather.",
+    techStack: ["React", "TypeScript", "Tailwind", "Recharts"],
     imageUrl: "https://picsum.photos/800/600?random=3",
-    demoUrl: "#",
-    repoUrl: "#"
+    demoUrl: "https://lainerdonet.github.io/Modulo34_EBAC_tercera-practica/",
+    repoUrl: "https://github.com/LainerDonet/Modulo34_EBAC_tercera-practica"
   },
   {
     id: 4,
-    title: "Social Connect",
-    description: "Plataforma social para desarrolladores enfocada en la colaboración de código en tiempo real.",
-    techStack: ["React", "Socket.io", "Node.js"],
+    title: "Sitio Web de Noticias Tecnológicas",
+    description: "Es un sitio web estático de noticias de tegnología en gerenal y con especial interés en: HPC, Software Libre, Linux y Distribuciones Linux para servidores.",
+    techStack: ["HTML", "CSS", "JavaScript", "SCSS"],
     imageUrl: "https://picsum.photos/800/600?random=4",
-    demoUrl: "#",
-    repoUrl: "#"
+    demoUrl: "https://lainerdonet.github.io/noticiastec.github.io",
+    repoUrl: "https://github.com/LainerDonet/noticiastec.github.io"
   }
 ];
 

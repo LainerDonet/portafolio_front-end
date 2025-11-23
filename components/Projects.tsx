@@ -12,7 +12,7 @@ const Projects: React.FC = () => {
           </h2>
           <div className="h-1 w-20 bg-gradient-to-r from-primary to-secondary mx-auto rounded-full"></div>
           <p className="mt-4 text-gray-400 max-w-2xl mx-auto">
-            Una selección de mis trabajos más recientes, desde aplicaciones web complejas hasta experimentos creativos.
+            Una selección de mis trabajos más recientes, desde aplicaciones web hasta experimentos creativos.
           </p>
         </div>
 
